@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Firebase**
 
 - 👯 I’m looking to collaborate on **Github**
 
