@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Habibullah Nomani</h1>
 <h3 align="center">A passionate web developer from Bangladesh.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=habibullah6&label=Profile%20views&color=0e75b6&style=flat" alt="habibullah6" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=habibullah6" alt="habibullah6" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 📫 How to reach me **nomanhabibullah65@gmail.com**
-
-
-
 ![Web Developer](https://i.ibb.co/vz03Pgw/Habibullah-nomain.jpg)
 
 My expertise as a MERN-Stack WEB Developer encompasses React, Node.js, and MongoDB, allowing me to create dynamic web applications. I am proficient in developing static websites with HTML5, CSS3, and JavaScript (ES6) as well. My strong work ethic and aptitude for learning enable me to tackle any challenge with determination and efficiency. Continuously learning and staying updated with emerging technologies is my priority, as I aspire to become a top-notch web developer on a global scale.
@@ -32,6 +22,12 @@ My expertise as a MERN-Stack WEB Developer encompasses React, Node.js, and Mongo
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=habibullah6&show_icons=true&locale=en" alt="habibullah6" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=habibullah6&" alt="habibullah6" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=habibullah6&label=Profile%20views&color=0e75b6&style=flat" alt="habibullah6" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=habibullah6" alt="habibullah6" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
  
 
 
