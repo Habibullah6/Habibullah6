@@ -1,5 +1,18 @@
 <h1 align="center">Hi 👋, I'm Habibullah Nomani</h1>
-<h3 align="center">A passionate web developer from Bangladesh.</h3>
+
+<h3 align="center">A passionate frontend developer from India</h3>
+
+- 🌱 I’m currently learning **Node.js**
+
+- 👯 I’m looking to collaborate on **Github**
+
+- 📫 How to reach me **nomanhabibullah65@gmail.com**
+
+- ⚡ Fun fact **I want to learn everything.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 ![Web Developer](https://i.ibb.co/vz03Pgw/Habibullah-nomain.jpg)
 
