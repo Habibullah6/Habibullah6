@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Habibullah Nomani</h1>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Advance Node.js MongoDB.**
 
-- 👯 I’m looking to collaborate on **Github**
+- 👯 I’m looking to collaborate on **Github.**
 
-- 📫 How to reach me **nomanhabibullah65@gmail.com**
+- 📫 How to reach me **nomanhabibullah65@gmail.com*
 
 - ⚡ Fun fact **I want to learn everything.**
 
