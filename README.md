@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Habibullah Nomani</h1>
 
-- 🌱 I’m currently learning **Advance Node.js MongoDB.**
+- 🌱 I’m currently learning **Advance Node.js and MongoDB.**
 
 - 👯 I’m looking to collaborate on **Github.**
 
