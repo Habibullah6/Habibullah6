@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact **I want to learn everything.**
 
-![Web Developer](https://i.ibb.co/vz03Pgw/Habibullah-nomain.jpg)
+![Web Developer]()
 
 I am a MERN-stack developer with expertise in React, Node.js, Express.js, and MongoDB. I also build static websites using HTML5, CSS3, and JavaScript (ES6). I prioritize continuous learning and staying up-to-date with emerging technologies.
 
