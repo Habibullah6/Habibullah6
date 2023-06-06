@@ -10,7 +10,7 @@
 
 ![Web Developer](https://i.ibb.co/JRHKVnC/1678126108485.jpg)
 
-<h6>I am a MERN-stack developer with expertise in React, Node.js, Express.js, and MongoDB. I also build static websites using HTML5, CSS3, and JavaScript (ES6). I prioritize continuous learning and staying up-to-date with emerging technologies.</h6>
+<h4>I am a MERN-stack developer with expertise in React, Node.js, Express.js, and MongoDB. I also build static websites using HTML5, CSS3, and JavaScript (ES6). I prioritize continuous learning and staying up-to-date with emerging technologies.</h4>
 
 
 <h3 align="left">Connect with me:</h3>
