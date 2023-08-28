@@ -12,7 +12,7 @@
 
 ![Web Developer](https://i.ibb.co/fqsxvnY/Habibullah-Nomani.png)
 
-<h4>I am a Forntend focused MERN-stack developer with expertise in React, Node.js, Express.js, and MongoDB. I also build static websites using HTML5, CSS3, and JavaScript (ES6). I prioritize continuous learning and staying up-to-date with emerging technologies.</h4>
+"🚀 Frontend Developer with a Passion for Crafting Engaging Web Experiences 🎨 | HTML, CSS, Bootstrap, Tailwind, React Enthusiast | Seamlessly Blending Aesthetics with Functionality | Node.js, Express, MongoDB Explorer | Let's Shape the Digital World Together! 💻🌐 #CodeAndCreate"
 
 
 <h3 align="left">Connect with me:</h3>
