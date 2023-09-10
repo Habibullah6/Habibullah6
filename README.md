@@ -4,11 +4,11 @@
 
 - 👯 I’m looking to collaborate on **Github.**
 
-- 📫 How to reach me **nomanhabibullah65@gmail.com*
+- 📫 How to reach me: **nomanhabibullah65@gmail.com*
   
 - 👨‍💻 My best projects are available at: https://habibullah-nomani.vercel.app
 
-- 📄 Know about my experiences: https://drive.google.com/file/d/1Wqu92C6cDjoL0HM1SjLbk4IhWSuptzqU/view
+- 📄 Know about my experiences: https://drive.google.com/file/d/1mOjJ0toA6IwLB179FZvPNlSLMFtLRx13/view
   
 - ⚡ Fun fact **I want to learn everything.**
 
