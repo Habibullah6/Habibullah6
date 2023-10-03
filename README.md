@@ -12,10 +12,7 @@
   
 - ⚡ Fun fact **I want to learn everything.**
 
-![Web Developer](https://i.ibb.co/fqsxvnY/Habibullah-Nomani.png)
-
 🚀 Frontend Developer with a Passion for Crafting Engaging Web Experiences 🎨 | HTML, CSS, Bootstrap, Tailwind CSS, Javascript, React.js Enthusiast | Seamlessly Blending Aesthetics with Functionality | Node.js, Express, MongoDB Explorer | Let's Shape the Digital World Together! 💻🌐 #CodeAndCreate
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
