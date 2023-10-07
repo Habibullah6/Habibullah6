@@ -44,7 +44,7 @@ Tools:
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=smtariqulislam&theme=midnight-purple&hide_border=true&locale=en)<br/>
+![](https://github-readme-stats.vercel.app/api?username=habibullah6&theme=midnight-purple&hide_border=true&locale=en)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=smtariqulislam&theme=midnight-purple&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=smtariqulislam&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
