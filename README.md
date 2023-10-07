@@ -1,13 +1,13 @@
 
 [![](https://visitcount.itsvg.in/api?id=smtariqulislam&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h1 align="center">Hi 👋, I'm S M Tariqul Islam</h1>
+<h1 align="center">Hi 👋, I'm Habibullah Nomani</h1>
 
 
 # 💫 About Me:
-<h3>I love problem-solving in the C++ language, and I have done some projects in HTML, CSS, Bootstrap, and JavaScript. I love to learn about new technology. I want to be a software engineer.</h3>
+<h3>I'm a front-end developer experienced in HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React.js, MongoDB, Express.js, and Node.js. Dedicated to creating user-friendly web interfaces and dynamic applications.</h3>
 
-- 📫 How to reach me: **sm.tariqul.islam.cse@gmail.com**
+- 📫 How to reach me: **nomanhabibullah65@gmail.com**
 
 # 💻 Tech Stack:
 <h2>
@@ -38,14 +38,6 @@ Tools:
 
 </h2>
 
-# 👨‍💻 My CP Profile:
-<p align="left">
-
-<a href="https://codeforces.com/profile/islamtariqul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="islamtariqul" height="30" width="40" /></a>
- <a href="https://www.codechef.com/users/tariqul00" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tariqul00" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/islamtariqul" target="blank"><img align="center"
- src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="s_m_tariqul_isl1" height="30" width="40" /></a>
-</p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/smtariqulislam00/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sm-tariqulislam/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/smtariqul_islam) 
@@ -56,8 +48,7 @@ Tools:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=smtariqulislam&theme=midnight-purple&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=smtariqulislam&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### Leetcode Stats:
-![Leetcode Stats](https://leetcard.jacoblin.cool/islamtariqul)
+
 
 
 
