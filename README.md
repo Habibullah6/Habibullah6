@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-<h3> I’m Habibullah Nomani, a front-end developer with over 2 years of experience creating responsive and dynamic web applications. I specialize in building user-friendly and visually appealing interfaces and am skilled in HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React.js, MongoDB, Express.js, Node.js, WordPress. At bdCalling IT Ltd, I focus on WordPress theme and plugin development, delivering custom solutions that blend functionality and design. I’m committed to innovation and excellence, crafting impactful digital experiences that meet diverse client needs.
+<h3> I’m Habibullah Nomani, a front-end developer with over 2 years of experience creating responsive and dynamic web applications. I specialize in building user-friendly and visually appealing interfaces and I'm skilled in HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React.js, MongoDB, Express.js, Node.js, and WordPress. At bdCalling IT Ltd, I focus on WordPress theme and plugin development, delivering custom solutions that blend functionality and design. I’m committed to innovation and excellence, crafting impactful digital experiences that meet diverse client needs.
 </h3>
 
 - 📫 How to reach me: **nomanhabibullah65@gmail.com**
